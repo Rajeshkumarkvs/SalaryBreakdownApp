@@ -1,0 +1,9 @@
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdown.AssemblyInfoInputs.cache
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdown.AssemblyInfo.cs
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdown.csproj.CoreCompileInputs.cache
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdown.csproj.AssemblyReference.cache
+C:\Project\SalaryBreakdown\SalaryBreakdown\bin\Debug\netcoreapp3.1\SalaryBreakdownApp.SalaryPackage.deps.json
+C:\Project\SalaryBreakdown\SalaryBreakdown\bin\Debug\netcoreapp3.1\SalaryBreakdownApp.SalaryPackage.dll
+C:\Project\SalaryBreakdown\SalaryBreakdown\bin\Debug\netcoreapp3.1\SalaryBreakdownApp.SalaryPackage.pdb
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdownApp.SalaryPackage.dll
+C:\Project\SalaryBreakdown\SalaryBreakdown\obj\Debug\netcoreapp3.1\SalaryBreakdownApp.SalaryPackage.pdb
