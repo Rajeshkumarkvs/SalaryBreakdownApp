@@ -8,7 +8,7 @@ A Json file (TaxRules.json) is used to calculate the salary breakdown based on i
 ## SalaryBreakdown - Class Library
 This project contains the business logic to calculate the salary breakdown. This project can be used as business layer for different type of applications. For example Front End UI applications, Rest API, etc..
 
-## SalaryBreakdownApp.Test - MSTest project
+## SalaryBreakdownTest - MSTest project
 This project is to test the SalaryBreakdown class library to make sure all functionalities are working fine as expected. It used mock tax rules for the income tax rules.
 
 ## Future Considerations
